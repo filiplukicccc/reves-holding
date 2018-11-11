@@ -1,0 +1,36 @@
+{
+  "name": "holding",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "google-maps-react": "^2.0.2",
+    "node-sass": "^4.10.0",
+    "radium": "^0.25.0",
+    "react": "^16.6.1",
+    "react-animations": "^1.0.0",
+    "react-countup": "^4.0.0",
+    "react-dom": "^16.6.1",
+    "react-hamburger-menu": "^1.1.1",
+    "react-on-screen": "^2.1.0",
+    "react-parallax": "^2.0.1",
+    "react-scripts": "2.1.1",
+    "react-scrollable-anchor": "^0.6.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.83.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
